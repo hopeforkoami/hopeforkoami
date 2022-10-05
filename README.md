@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hopeforkoami" alt="hopeforkoami" /></a> </p>
 
 
-- 🔭 I’m currently studying at @microverse
+- 🔭 I’m currently studying at @microverseinc
 
 - 🌱 I’m currently learning **React, Ruby, Python**
 
@@ -32,3 +32,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me **hopeforkoami@gmail.com**
 
 - ⚡ Fun fact **I love to play and watch 🏀**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hopeforkoami&show_icons=true&locale=en&layout=compact" alt="hopeforkoami" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hopeforkoami&show_icons=true&locale=en" alt="hopeforkoami" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hopeforkoami&" alt="hopeforkoami" /></p>
