@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **hopeforkoami/hopeforkoami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Koami NOGBEDJI</h1>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=7649F7&center=true&vCenter=true&width=499&lines=Hello+Developers+)](https://git.io/typing-svg)
+
+</div>
 <h3 align="center">Always deliver more than expected, be good to people and trust God always</h3>
 
 
