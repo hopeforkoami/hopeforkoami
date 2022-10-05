@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React, Ruby, Python**
 
+- 👨‍💻 All of my projects are available at [https://github.com/hopeforkoami](https://github.com/hopeforkoami)
+
 - 💬 Ask me about **Flutter, Symfony and Java**
 
 - 📫 How to reach me **hopeforkoami@gmail.com**
@@ -38,3 +40,10 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hopeforkoami&show_icons=true&locale=en" alt="hopeforkoami" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hopeforkoami&" alt="hopeforkoami" /></p>
+
+<h3>My GitHub Contribution Graph<h3><hr>
+     <p align="center">
+       <img width="830" src="https://activity-graph.herokuapp.com/graph?username=hopeforkoami&theme=react-dark&hide_border=true&area=true" />
+      </p>
+   </table>
+   <hr>
